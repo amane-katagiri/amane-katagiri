@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-これは百合初期の時代には誰も書こうとは考えなかった、日々拡大を続ける百合ツール集です。
+これは百合初期の時代には誰も書こうとは考えなかった、日々拡大を続ける百合ツール集です。 This is a collection of the YURI tools that nobody thought to write long ago when YURI was young.
 
-This is a collection of the YURI tools that nobody thought to write long ago when YURI was young.
+主にFedibirdにいます: <a rel="me" href="https://fedibird.com/@amane">fedibird.com/@amane</a>
