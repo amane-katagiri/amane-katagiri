@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 これは百合初期の時代には誰も書こうとは考えなかった、日々拡大を続ける百合ツール集です。 This is a collection of the YURI tools that nobody thought to write long ago when YURI was young.
 
-主にFedibirdにいます / Follow me: [fedibird.com/@amane](https://fedibird.com/@amane)
-
 #### 📫 How to reach me
 
 - Mail: [rito@ama.ne.jp](mailto:rito@ama.ne.jp)
