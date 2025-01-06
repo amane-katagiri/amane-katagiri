@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-これは百合初期の時代には誰も書こうとは考えなかった、日々拡大を続ける百合ツール集です。 This is a collection of the YURI tools that nobody thought to write long ago when YURI was young.
+[あまねけ！](https://ama.ne.jp/)では現在お仕事を募集中です。サービスの開発・運用のご相談、小説・エッセイ・技術記事の執筆のご依頼、その他記事のリクエストなど広く承っています。まずはお気軽にご連絡ください。 [Amaneke!](https://ama.ne.jp/) is currently accepting new clients/projects. We are widely accepting development and operation of services, writing novels, essays, technical articles. Please feel free to contact us.
 
 #### 📫 How to reach me
 
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 #### ⚡ Fun fact
 
-- My icon drawn by [たなか麦](https://twitter.com/oplant).
-- [Add your tip-off...](https://forms.gle/sWSN925RHNiuNyFo6)
+- My icon drawn by [たなか麦](https://x.com/oplant).
+- My header drawn by [なか憲人](https://x.com/tokuniaru).
