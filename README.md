@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me
 
-- Mail: [amane@ama.ne.jp](mailto:amane@ama.ne.jp)
+- Mail: [rito@ama.ne.jp](mailto:rito@ama.ne.jp)
 - Matrix: [@amane:matrix.amane.moe](https://dm.amane.moe/)
 - Tox: `tox:7FEFC9611902B3C836ABAF08059F26DBC95D51881E61553D9C94C6A1B0C6093716E4954B1541`
 - Tel: [+81 80-1665-4365](tel:+818016654365)
