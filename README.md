@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Amaneke! status](https://img.shields.io/website?url=https%3A%2F%2Fama.ne.jp%2F&label=Amaneke!&color=%23ec79c2)](https://ama.ne.jp/) [![Amaneke! Release Date](https://img.shields.io/github/release-date/amane-katagiri/amanejp-portable?display_date=published_at&style=flat&label=last%20update)](https://ama.ne.jp/) [![Docker Image Size](https://img.shields.io/docker/image-size/amane/amanejp?style=flat)](https://hub.docker.com/r/amane/amanejp) [![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/ama.ne.jp)](https://developer.mozilla.org/en-US/observatory/analyze?host=ama.ne.jp) [![Chromium HSTS preload](https://img.shields.io/hsts/preload/ama.ne.jp?style=flat)](https://hstspreload.org/?domain=ama.ne.jp) [![Liberapay receiving](https://img.shields.io/liberapay/receives/amane?style=flat)](https://liberapay.com/amane/)
+
 [あまねけ！](https://ama.ne.jp/)では現在お仕事を募集中です。サービスの開発・運用のご相談、小説・エッセイ・技術記事の執筆のご依頼、その他記事のリクエストなど広く承っています。まずはお気軽にご連絡ください。 [Amaneke!](https://ama.ne.jp/) is currently accepting new clients/projects. We are widely accepting development and operation of services, writing novels, essays, technical articles. Please feel free to contact us.
 
 #### 📫 How to reach me
